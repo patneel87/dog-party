@@ -1,0 +1,217 @@
+*{
+	border: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+nav{
+	background-color: #66ffed;
+     position: relative;
+}
+
+.navbar-links {
+	display: inline-block;
+    float: right;
+    padding-right: 15px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+li{
+	display: inline-block;
+	padding: 8px;
+	padding-right: 5px;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+.logodog {
+	height: 40px;
+	padding: 5px;
+	margin-left: 4px;
+	margin-top: 5px;
+}
+
+.park {
+	background-image: url("images/park.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+	margin: auto;
+}
+
+h1 {
+	margin: 0px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	padding-top: 40px;
+	margin-bottom: 10px;
+}	
+.browndog {
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+	border: solid #4c859b;
+	margin: auto;
+	padding: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 585.5px;
+	display: block;
+}
+h3 {
+	margin-top: 0px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	border: solid #4c859b;
+	background-color: white;
+	width: 150px;
+	display: inline-block;
+	padding: 5px;
+	margin-left: 635.5px;
+}
+.pitbull {
+	border-radius: 100px;
+	height: 175px;
+	width: 175px;
+	margin: auto;
+	display: block;
+	border: solid #4c859b;
+	padding: 0px;
+}
+.how-text {
+	height: 650px;
+	display: inline-block;
+	width: 30%;
+	margin-right: 2.25%;
+	margin-left: 2.25%;
+}
+.howp{
+	margin-top: 80px;
+}
+.how{
+	margin-top: 0px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	border: solid #4c859b;
+	background-color: white;
+	width: 150px;
+	display: inline-block;
+	padding: 5px;
+	margin-left: 140px;
+	
+}
+p {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+h4 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+.howh4{
+	bottom-margin: 50px;
+	top-margin: 50px;
+	height: 25%;
+}
+.whath4 {
+	height: 18%;
+	margin-bottom: 25px;
+
+	
+}
+.factsh4{
+	height: 25%;
+}
+.blacklab {
+	border-radius: 100px;
+	height: 175px;
+	width: 175px;
+	margin: auto;
+	display: block;
+	border: solid #4c859b;
+	padding: 0px;
+	margin-top: 35px;
+}
+.what-text {
+	height: 650px;
+	display: inline-block;
+	border-right: 100px;
+	width: 30%;
+	margin-right: 2.25%;
+	margin-top: 60px;
+}
+
+.what {
+	border: solid #4c859b;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	background-color: white;
+	width: 150px;
+	display: inline-block;
+	padding: 5px;
+	margin-left: 130px;
+}
+.whatp{
+	margin-top: 35px;
+	padding-top: 50px
+}
+.frenchbulldog {
+	border-radius: 100px;
+	height: 175px;
+	width: 175px;
+	margin: auto;
+	display: block;
+	border: solid #4c859b;
+	padding: 0px;
+	margin-bottom: 50px;
+}
+.facts {
+	height: 650px;
+	display: inline-block;
+	border-right: 100px;
+	width: 30%;
+	margin-right: 2.25%;
+	padding: 15px;
+}
+.factsp{
+	margin-top: 65px;
+
+}
+
+.factsh3 {
+	border: solid #4c859b;
+	margin-top: 0px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	background-color: white;
+	width: 150px;
+	display: inline-block;
+	padding: 5px;
+	margin-left: 130px;
+	
+
+}
+footer {
+	background-color: #4c859b;
+    position: relative;
+    height: 50%;
+
+}
+.footerlinks {
+	padding-left: 0px;
+    width: 375px;
+    margin: auto;
+    display: block;
+}
+
+.sm1 {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+h5 {
+	text-align: center;
+	color: white;
+	height: 20%;
+}
+
+
